@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @CYLUMFINANCE
+- 👋 Hi, I’m @CYLUMFINANCE - This is SCAM TOKEN
 - 👀 A Multi Auto staking Rewards Token.
 
 <!---
 CYLUMFINANCE/CYLUMFINANCE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
